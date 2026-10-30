@@ -23,7 +23,8 @@ This can be useful for **personal insights**, **group activity analysis**, or ev
 - Timeline visualizations (daily, monthly)  
 - Activity heatmap (day vs hour)  
 - Word cloud & most common words  
-- Emoji usage and ranking  
+- Emoji usage and ranking
+- MOST ACTIVE PERSON 
 - User-wise filtering for group chats  
 - Support for English + Hinglish stopword removal  
 
